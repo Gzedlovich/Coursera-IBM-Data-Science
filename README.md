@@ -1,5 +1,3 @@
 # Coursera-IBM-Data-Science
 
-rr Editing the file
-
-It's a markdown file in this repository.
+These are assignments and labs from the IBM Data Science Course through Coursera.
